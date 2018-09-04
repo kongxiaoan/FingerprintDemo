@@ -1,5 +1,5 @@
 ### 使用指纹
-
+https://blog.csdn.net/qq_32648731/article/details/82385031 博客地址
 > 说明
 
 ### 需要知道的
@@ -66,5 +66,8 @@ arg2: 系统建议为0
 ---
 
 ### 通过零碎的知识完成一个Demo 
+
+
+博客地址 https://blog.csdn.net/qq_32648731/article/details/82385031
 
 
